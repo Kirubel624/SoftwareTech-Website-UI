@@ -1,0 +1,25 @@
+{
+    "showcase":[
+        {
+            "image":"/assets/img/code.svg",
+            "heading":"Innovative",
+            "paragraph":"We will use reliable code to ensure fast load times and optimum usability."
+        },
+        {
+            "image":"/assets/img/touch.svg",
+            "heading":"Responsive",
+            "paragraph":"With the rise of mobile devices, We will make your website designed to look great on any screen size."
+        },
+        {
+            "image":"/assets/img/dash.svg",
+            "heading":"Clean",
+            "paragraph":"Extra time and throught will be taken to produce a design that is free of clutter and wasted space."
+        },
+        {
+            "image":"/assets/img/star.svg",
+            "heading":"Modern",
+            "paragraph":"We will use all the latest technologies to make your website look new and fresh. The most modern design techniques were implemented to make sure your product shines through."
+        }
+        
+    ]
+}

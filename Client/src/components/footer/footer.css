@@ -1,0 +1,151 @@
+.footer_all_con{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly
+}
+/* .footer_all_con:hover p,h3{
+color: #532AB8;
+} */
+.footer_first_col{
+    
+}
+.footer_second_col{
+
+}
+.footer_third_col{
+padding-top:92px;
+}
+.footer_fourth_col{
+padding-top:92px;
+}
+.footer_five_col{
+padding-top:92px;
+}
+.footer_sixth_col{
+
+}
+.footer_first_col p{
+   font-size: 12px;
+   text-align: left; 
+}
+.footer_first_col p:hover{
+    color: #532AB8;
+    cursor: pointer;
+}
+.footer_second_col p:hover{
+    color: #532AB8;
+    cursor: pointer;
+}
+.footer_third_col p:hover{
+    color: #532AB8;
+    cursor: pointer;
+}
+.footer_fourth_col p:hover{
+    color: #532AB8;
+    cursor: pointer;
+}
+.footer_five_col p:hover{
+    color: #532AB8;
+    cursor: pointer;
+}
+.footer_sixth_col p:hover{
+    color: #532AB8;
+    cursor: pointer;
+}
+
+.footer_first_col h3{
+    font-size: 16px;
+    text-align: left;
+    letter-spacing:2px;
+    font-style:antialiased;
+    padding-top:50px 
+ }
+.footer_second_col p{
+font-size: 12px;
+text-align: left;
+}
+.footer_second_col h3{
+    font-size: 16px;
+    text-align: left;
+    letter-spacing:2px;
+    font-style:antialiased;
+    padding-top:50px
+    }
+.footer_third_col p{
+font-size: 12px;
+text-align: left;
+
+}
+.footer_fourth_col p{
+font-size: 12px;
+text-align: left;
+
+}
+.footer_five_col p{
+font-size: 12px;
+text-align: left;
+
+}
+.footer_sixth_col p{
+  font-size: 12px;
+  text-align: left;
+    
+}
+.footer_sixth_col h3{
+    font-size: 16px;
+    text-align: left;
+    letter-spacing:2px;
+    font-style:antialiased;
+    padding-top:50px
+      
+  }
+  .footer_all_con_con{
+      background-color:black;
+      color: white;
+  }
+  .footer_seventh_col{
+      align-self: start;
+      background-color:black;
+      display: flex;
+      flex-direction: row;
+      color: white;
+  }
+
+.footer_seventh_col_img_aligner img{
+   float:left;
+   margin-left:75px;
+   padding-bottom: 20px;
+   color: white;
+}
+
+.footer_seventh_col_img_aligner p{
+   
+    padding-top: 2px;
+    /* width: 500px; */
+    padding-left: 20px;
+
+   
+ }
+ .footer_seventh_col_img_aligner{
+    display: flex;
+    flex-direction: row;
+ }
+ #purple_color:hover{
+color: #532AB8;
+cursor: pointer;
+/* padding-left: 50px; */
+ }
+ #purple_color1:hover{
+    color: #532AB8;
+    cursor: pointer;
+    /* padding-left: 10px; */
+     }
+#purple_color{
+    padding-left: 250px;
+    padding-right: 0px;
+ }
+ #purple_color1{
+    padding-left: 20px;
+ }

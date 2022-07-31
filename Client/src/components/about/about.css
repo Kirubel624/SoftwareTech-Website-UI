@@ -1,0 +1,123 @@
+
+.about_right{
+    display:flex;
+    flex-direction: row;
+}
+
+.about_right h3{
+    background-color:  #532AB8;
+    background-image: linear-gradient(to right, transparent 0%, #993BE2 100%);
+    border-radius: 10px;
+    width: 22%;
+    height: 5px;
+}
+.about_right_text{
+    padding-left: 80px;
+    text-align: left;
+    width: 40%;
+    font-size: 15px;
+    height: 400px;
+
+}
+.about_left_img {
+    width: 50%;
+    margin-left:120px
+}
+.about_left_img img{
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 300px;
+    height: 95%;
+    position: relative;
+}
+
+.about_left_img_lefter{
+    position: absolute;
+    margin-top: 100px;
+    margin-left:690px;
+   
+   
+}
+.about_left_img_lefter img{
+    border-radius: 10px;
+    margin-top: 70px;
+    height: 250px;
+}
+.get_send_btn form input{
+    border: 0;
+  outline: 0;
+  padding: 8px 1em;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  height: 43px;
+  width: 120px;
+  border-radius: 30px;
+  background-color: #532AB8;
+
+  transition: all 240ms ease-in-out;
+  cursor: pointer;
+  float:left;
+  margin-left: 40px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+.get_send_btn{
+    background-color: #532AB8;
+    width: 45px;
+    height: 43px;
+    margin-right: 200px;
+    margin-top: 10px;
+    font-size: 12px;
+    margin-left: 40px;
+    border-radius: 25px;
+    margin-bottom: 35px;
+    border: 1px solid rgba(255, 0, 0, 0);
+    transition: all 0.6s ease-in-out;
+        color: white;
+
+}
+.get_send_btn button{
+    width: 110px;
+height: 43px;
+    background-color: #522ab800;
+margin-left: 2px;
+/* */padding-bottom: 5px;
+    border: 1px solid rgba(255, 0, 0, 0);
+    transition: all 0.6s ease-in-out;
+
+}
+.get_send_btn button:hover{
+    color: white;
+    margin-left: -5px;
+    transition: all 0.6s ease-in-out;
+    cursor: pointer;
+}
+.get_send_btn:hover{
+    background-color: #532AB8;
+    background-image: linear-gradient(to right, transparent 0%, #993BE2 100%);
+    width: 140px;
+    height: 43px;
+    margin-right: 200px;
+    margin-top: 10px;
+    font-size: 12px;
+    margin-left: 40px;
+    color: white;
+    border-radius: 25px;
+    margin-bottom: 35px;
+    border: 1px solid rgba(255, 0, 0, 0);
+    cursor: pointer;
+    transition: all 0.6s ease-in-out;
+}
+.arrow{
+    margin-top:8px;
+    border: 1px solid rgba(255, 0, 0, 0);
+    margin-left: 10px;
+}
+.get_send_btn{
+    display: flex;flex-direction: row;
+
+}
+.get_send_btn_btn{
+    width: 180px;
+}

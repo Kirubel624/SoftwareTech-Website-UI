@@ -1,0 +1,13 @@
+.abt_r_r h3{
+    background-color:  #532AB8;
+    background-image: linear-gradient(to right, transparent 0%, #993BE2 100%);
+    border-radius: 10px;
+    width: 23%;
+    height: 5px;
+    
+}
+.arr_abt{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

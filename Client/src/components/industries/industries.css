@@ -1,0 +1,180 @@
+.container_indus{
+    background-color: black;
+    margin-top: 300px;
+    color: white;
+    overflow: hidden;
+    
+}
+.container_image_indus{
+
+}
+.container_indus h3{
+    background-color:  #532AB8;
+    background-image: linear-gradient(to right, transparent 0%, #993BE2 100%);
+    border-radius: 10px;
+    width: 8%;
+    height: 5px;
+    
+}
+.top_bar_indus{
+    padding-left: 80px;
+    text-align: left;
+
+}
+.image_indus_one{
+    background-image: url('');
+    height: 90vh;
+    width: 420px;
+    position: relative;
+    overflow: hidden;
+}
+.image_indus_one img{
+    height: 100%;
+    transition: all .2s ease-in-out;
+   background-position: center;
+
+   width: 100%;
+
+}
+
+.image_indus_one img:hover{
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.image_indus_one{
+    display:flex;
+    flex-direction: column;
+}
+.image_indus_undertext{
+    position: relative;
+}
+.container_image_indus{
+    display:flex;
+flex-direction:row;
+justify-content: space-evenly;
+padding-bottom: 80px;
+}
+.image_indus_two{
+       height: 90vh;
+    width: 400px;
+    position: relative;
+    overflow: hidden;
+}
+.image_indus_one img{
+    height: 100%;
+    transition: all .2s ease-in-out;
+   background-position: center;
+
+   width: 100%;
+
+}
+
+.image_indus_undertext{
+    position: relative;
+}
+
+.purple-overlay{
+    background-color: #532AB8;
+    background-image:linear-gradient(to right, transparent 0%, #993BE2 100%);
+    position: absolute;
+    width: 500px;
+    height: 1vh;
+   
+    left:0px;
+    opacity: 0;
+    bottom: 0;
+    transition: all 0.6s;
+    z-index: 99;
+    border-radius:8px;
+}
+.image_indus_one:hover .purple-overlay{
+    height: 30vh;
+    display: block;
+    opacity: 1;
+    transition: all 0.6s;
+    cursor: pointer;
+}
+.whole-overlay{
+
+ width: 10vh;
+ margin-right: 10px !important;
+}
+.whole-overlay:hover .purple-overlay {
+    height: 30vh;
+    display: block;
+    opacity: 1;
+    transition: all 0.6s;
+    cursor: pointer;
+}
+.whole-overlay:hover .image_indus_one img{
+    transform: scale(1.1);
+    cursor: pointer;
+    transition: all 0.6s;
+    cursor: pointer;
+}
+.whole-overlay{
+    background-image: url('');
+    height: 90vh;
+    width: 500px;
+    margin: 0 50px 0 10px;
+    background-repeat: no-repeat;
+
+    border-radius:8px;
+    text-align: left;
+    position: relative;
+    overflow: hidden;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.purple-overlay h2{
+    position: absolute;
+
+  top: 0;
+    left:0px;
+    opacity: 0;
+    bottom: 0;
+    transition: all 0.4s;
+    z-index: 909;
+    
+}
+.purple-overlay p{
+    position: absolute;
+
+  top: 0;
+    left:0px;
+    opacity: 0;
+    bottom: 0;
+    transition: all 0.4s;
+    z-index: 909
+}
+.image_indus_whole_text_overlay{
+ 
+    position: absolute;
+    width: 390px;
+    height: 30vh;
+   
+    left:0px;
+
+    bottom: 0;
+   text-align: left;
+    z-index: 99;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 0px;
+
+
+}
+#par_one_title{
+    font-size: 22px;
+
+    font-weight: 500;
+    line-height: 1.5;
+    color: #fff;
+}
+#par_two_title{
+    font-size: 15px;
+ 
+
+    line-height: 26px;
+}

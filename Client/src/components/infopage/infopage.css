@@ -1,0 +1,319 @@
+.soft_all_con{
+    background-color: whitesmoke;
+}
+.info_page h3{
+    background-color:   #532AB8;
+background-image: linear-gradient(to right, transparent 0%, #993BE2 100%);
+border-radius: 10px;
+width: 28%;
+height: 5px;
+}
+.infopage_con{
+     background-color: whitesmoke;
+padding-top:30px;
+}
+.info_page{
+    padding-top:50px;
+    text-align: left;
+    padding-left:100px;
+    background-color: whitesmoke;
+
+}
+.info_page p{
+    margin: -8px;
+}
+.info_page h1{
+    margin: -8px;
+}
+.soft_con{
+    /* padding-top:50px; */
+    padding-right:100px;
+    display:flex;
+    flex-direction: row;
+    background-color: whitesmoke;
+}
+.soft_con img{
+    width: 90px;
+    height:auto;
+    justify-content:space-around;
+margin-top: 55px;
+}
+.soft_soft{
+    border: 1px solid rgb(201, 200, 200);
+    border-right: none;
+    height: 180px;
+    width: 190px;
+    background-color:white;
+
+}
+.soft_soft img{
+    transition: filter .5s ease-in-out;
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%); 
+}
+.soft_soft img:hover {
+    -webkit-filter: grayscale(0%); 
+    filter: grayscale(0%);
+  }
+.soft_soft1{
+    border: 1px solid rgb(201, 200, 200);
+   border-radius: 0 80px 0 0;
+    height: 180px;
+    width: 190px;
+    background-color:white;
+
+}
+.soft_soft1 img{
+    margin-top: 45px;
+    transition: filter .5s ease-in-out;
+    -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+    filter: grayscale(100%); /* FF 35+ */
+
+}
+
+  
+.soft_soft1 img:hover {
+    -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+    filter: grayscale(0%); /* FF 35+ */
+  }
+.soft_soft2{
+    border: 1px solid rgb(201, 200, 200);
+    border-right: none;
+    height: 180px;
+    width: 190px;
+    background-color:white;
+}
+.soft_soft2 img{
+    margin-top: 45px;
+    transition: filter .5s ease-in-out;
+    -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+    filter: grayscale(100%); /* FF 35+ */
+}
+.soft_soft2 img:hover {
+    -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+    filter: grayscale(0%); /* FF 35+ */
+  }
+.infopage_con{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.below_image{
+    padding-left: 1px;
+    margin: -6px;
+    background-color: whitesmoke;
+    padding-bottom: 60px;
+}
+
+.below_image img{
+    width: 1150px;
+}
+.soft_soft_1{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid rgb(201, 200, 200);
+    border-right: none;
+    height: 180px;
+    width: 190px;
+    background-color:white;
+    margin-left: 110px;
+    border-radius: 65px 0 0 0 ;
+    
+ 
+
+}
+.soft_soft_2{
+    border: 1px solid rgb(201, 200, 200);
+    border-right: none;
+    height: 180px;
+    width: 190px;
+    background-color:white;
+
+}
+.soft_soft_3{
+    border: 1px solid rgb(201, 200, 200);
+    border-right: none;
+    height: 180px;
+    width: 380px;
+    background-color:white;
+
+
+}
+.soft_soft_1_1{
+    border: 1px solid rgb(201, 200, 200);
+    border-right: none;
+    height: 180px;
+    width: 190px;
+    background-color:white;
+    padding-top: 30px;
+    padding-left: 20px;
+
+
+}
+.soft_soft_2_1{
+    border: 1px solid rgb(201, 200, 200);
+    border-right: none;
+    height: 180px;
+    width: 190px;
+    background-color:white;
+    padding-top: 30px;
+    padding-left: 20px;
+
+}
+.soft_soft_3_1{
+    border: 1px solid rgb(201, 200, 200);
+    border-right: none;
+    height: 180px;
+    width: 380px;
+    background-color:white;
+    margin-left: 110px;
+    padding-top: 30px;
+    /* padding-left: 20px; */
+
+
+}
+.soft_soft_1_1_1{
+    border: 1px solid rgb(201, 200, 200);
+    border-right: none;
+    height: 180px;
+    width: 380px;
+    background-color:white;
+
+    /* border-radius: 65px 0 0 0 ; */
+
+}
+.soft_soft_2_1_1{
+    border: 1px solid rgb(201, 200, 200);
+    border-right: none;
+    height: 180px;
+    width: 0px;
+    background-color:white;
+
+}
+.soft_soft_3_1_1{
+    border: 1px solid rgb(201, 200, 200);
+    border-right: none;
+    height: 180px;
+    width: 380px;
+    background-color:white;
+    margin-left: 110px;
+    border-radius:  0 0 0 65px ;
+    padding-top: 30px;
+    padding-left: 20px;
+
+}
+.soft_con_con{
+    display: flex;
+    flex-direction: column;
+}
+.soft_con_con_con{
+    display: flex;
+    flex-direction: row;
+}
+.soft_con_right{
+    height: 180px;
+    width: 380px; 
+}
+.soft_con1{
+    /* padding-top:50px; */
+    /* padding-right:100px; */
+    display:flex;
+    flex-direction: row;
+    background-color: whitesmoke;
+}
+.soft_con2{
+    /* padding-top:50px; */
+    /* padding-right:100px; */
+    display:flex;
+    flex-direction: row;
+    background-color: whitesmoke;
+}
+.soft_con3{
+    /* padding-top:50px; */
+    /* padding-right:100px; */
+    display:flex;
+    flex-direction: row;
+    background-color: whitesmoke;
+}
+.below_image1{
+    /* padding-left: 10px; */
+    /* margin: -6px; */
+    background-color: whitesmoke;
+    padding-bottom: 60px;
+}
+
+.below_image1 img{
+    width: 380px;
+    height: 540px;
+}
+.count_up {
+    /* margin-top: 500vh; */
+font-size: 35px;
+font-weight: 500;
+/* border: 1px solid red; */
+}
+.count_up1 {
+    /* margin-top: 500vh; */
+font-size: 35px;
+font-weight: 500;
+color: white;
+/* border: 1px solid red; */
+}
+.soft_soft_1 p{
+
+    /* font-size: 30px;
+    padding-bottom: 200px;
+    border: 1px solid red; */
+    /* display: flex;
+    flex-direction: column; */
+}
+.soft_soft_1{
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.plus_icon{
+    margin-top: 12px; 
+    font-size: 30px;
+}
+.plus_icon1{
+    margin-top: 12px; 
+    font-size: 30px;
+    color: white;
+}
+#white_text{
+    color: white;
+}
+.soft_soft_1_con{
+  display: flex;
+  flex-direction: column;  
+}
+.soft_soft_2{
+    padding-top: 30px;
+    padding-left: 10px; 
+}
+.percent_icon{
+    margin-top: 12px; 
+    font-size: 40px; 
+}
+.soft_soft_3{
+    padding-top: 30px;
+    padding-left: 10px;  
+}
+.soft_soft_3_1{
+    background-image: url("../../assets/images/ai-sol.png");
+}
+#small_par{
+    float: left;
+    padding-left: 22px;
+}
+.soft_soft_1_1_1 p{
+    float: left;
+    /* padding-left: 10px; */
+}
+.soft_soft_1_1_1 h1{
+    float: left;
+}
+#big_paragraph{
+    font-size: 25px;
+    font-weight:500 ;
+}

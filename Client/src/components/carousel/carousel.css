@@ -1,0 +1,189 @@
+.carousel_con{
+    justify-content:space-around;
+    height:100vh;
+    padding-top: 90px;
+}
+.carousel_con h3{
+    background-color:   #532AB8;
+    background-image: linear-gradient(to right, transparent 0%, #993BE2 100%);
+    border-radius: 10px;
+    width: 8%;
+    height: 5px;
+    margin-bottom: 30px;
+}
+.carousel_con h1{
+    font-weight: bold;
+}
+.carousel_con h1{
+    margin: -1px 0 -4px 0;
+}
+.carousel_con p{
+    margin: -1px;
+  
+}
+.adjust_pad{
+    padding-bottom: 50px;
+}
+.carousel_con h1{
+    font-size: 8vmin;
+    font-weight: 900;
+    
+}
+.carso_one{
+    background-image: url('../../assets/images/AI.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+    padding-top:100px;
+    padding-left:100px;
+    overflow: hidden;
+    text-align: left;
+    color:white;
+    height:92vh;
+}
+.carso_one h3{
+background-color:  #532AB8;
+background-image: linear-gradient(to right, transparent 0%, #993BE2 100%);
+border-radius: 10px;
+width: 8%;
+height: 5px;
+}
+.carousel_btn Button {
+
+
+  margin-left: 10px;
+ margin-bottom: 50px;
+
+
+}
+.big_btn{
+    width: 10px;
+    padding: 0 30px 0 0;
+    
+  
+}
+.small_btn{
+    opacity: 0.3;
+   
+}
+.carousel_btn Button:hover{
+
+
+    cursor: pointer;
+   
+  }
+.carso_two{
+    background-image: url('../../assets/images/bigdata.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+    padding-top:100px;
+    padding-left:100px;
+    overflow: hidden;
+    text-align: left;
+    color:white;
+    height:92vh;
+}
+.carouse_three{
+    background-image: url('../../assets/images/datascience.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top:100px;
+    padding-left:100px;
+    overflow: hidden;
+    text-align: left;
+    color:white;
+    height:92vh;
+}
+.par_g{
+    font-size:40px
+}
+.get_send_btna form input{
+    border: 0;
+  outline: 0;
+  padding: 8px 1em;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  height: 43px;
+  width: 120px;
+  border-radius: 30px;
+  background-color: #532AB8;
+
+  transition: all 240ms ease-in-out;
+  cursor: pointer;
+  float:left;
+  margin-left: 40px;
+  margin-top: 10px;
+  /* margin-bottom: 25px; */
+}
+.get_send_btna{
+    background-color: #532AB8;
+    width: 45px;
+    height: 43px;
+    /* margin-right: 200px; */
+    /* margin-top: 10px; */
+    font-size: 12px;
+    /* margin-left: 40px; */
+    border-radius: 25px;
+    margin-bottom: 35px;
+    /* border: 1px solid rgb(255, 0, 0); */
+    transition: all 0.6s ease-in-out;
+        /* color: white; */
+
+}
+.get_send_btna button{
+    width: 110px;
+height: 43px;
+    background-color: #522ab800;
+margin-left: 10px;
+/* */
+/* padding-bottom: 5px; */
+    border: 1px solid rgba(255, 0, 0, 0);
+    transition: all 0.6s ease-in-out;
+
+}
+.get_send_btna button:hover{
+    /* color: white; */
+    margin-left: -5px;
+    transition: all 0.6s ease-in-out;
+    cursor: pointer;
+}
+.get_send_btna:hover{
+    background-color: #532AB8;
+    background-image: linear-gradient(to right, transparent 0%, #993BE2 100%);
+    width: 140px;
+    height: 43px;
+    margin-right: 200px;
+    /* margin-top: 10px; */
+    font-size: 12px;
+    /* margin-left: 40px; */
+    /* color: white; */
+    border-radius: 25px;
+    /* margin-bottom: 35px; */
+    /* border: 1px solid rgba(255, 0, 0, 0); */
+    cursor: pointer;
+    transition: all 0.6s ease-in-out;
+}
+.arrow{
+    margin-top:8px;
+    border: 1px solid rgba(255, 0, 0, 0);
+    margin-left: 10px;
+}
+.get_send_btna{
+    display: flex;flex-direction: row;
+
+}
+.get_send_btn_btna{
+    width: 180px;
+    color: white;
+    font-size: 18px;
+    font-family: "Lato","sans-serif";
+    font-weight: 400;
+    -webkit-font-smoothing:antialiased;
+}
+.carousel_btn_text_color_white p{
+    color: white;
+}

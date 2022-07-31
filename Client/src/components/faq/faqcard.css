@@ -1,0 +1,142 @@
+.faqcard_comp1{
+    border: 1px solid rgb(201, 201, 201);
+    background-size:contain ;
+    width: 80vh;
+    height:60px;
+    margin-top:50px;
+ 
+margin-bottom: 15px;
+border-radius: 6px;
+margin-left: 80px;
+display: flex;
+flex-direction: row;
+justify-content:space-between; 
+}.faqcard_comp1_dark{
+    border: 1px solid white;
+    background-size:contain ;
+    background-color: rgb(36, 36, 36);
+    width: 80vh;
+    height:60px;
+    margin-top:50px;
+ color: white;
+margin-bottom: 15px;
+border-radius: 6px;
+margin-left: 80px;
+display: flex;
+flex-direction: row;
+justify-content:space-between; 
+}
+.faqcard_comp1 p{
+    padding-left: 20px;
+}
+.faqcard_comp1_dark p{
+    padding-left: 20px;
+}
+.faqcard_comp p{
+    padding-left: 20px;
+}
+.faqcard_comp_dark p{
+    padding-left: 15px;
+    padding-top: 5px;
+    font-size: 14px;
+}
+
+
+.faqcard_comp1 h6{
+    height: 25px;
+    font-size: 40px;
+    color: rgb(36, 36, 36);
+    padding-right:20px;
+    margin-top: 0px;
+    padding-bottom:20px;
+    transition: all 0.6 ease-in-out;
+}.faqcard_comp1_dark h6{
+    height: 25px;
+    font-size: 40px;
+    
+  
+    color:white;
+    padding-right:20px;
+    margin-top: 15px;
+    transform: rotate(45deg);
+    transition: all 0.6s ease-in-out;
+    
+      
+    
+}
+.faqcard_comp1_dark h6:hover{
+    cursor:pointer;
+   
+ }
+ .faqcard_comp1 h6:hover{
+    cursor:pointer;
+   
+ }
+.faqcard_comp h6{
+    height: 25px;
+    font-size: 40px;
+   color: rgb(36, 36, 36);
+    padding-right:20px;
+    margin-top: 0px;
+    padding-bottom:20px;
+    transition: all 0.6 ease-in-out;
+}.faqcard_comp h6:hover{
+   cursor:pointer;
+  
+}
+.faqcard_comp{
+    border: 1px solid rgb(201, 201, 201);
+    background-size:contain ;
+    width: 80vh;
+    height:60px;
+    transition: all 0.6 ease-in-out;
+margin-bottom: 15px;
+border-radius: 6px;
+margin-left: 80px;
+display: flex;
+flex-direction: row;
+justify-content:space-between; 
+}
+.faqcard_comp p{
+    padding-top: 5px;
+    font-size:14px;
+}
+.faqcard_comp1 p{
+    padding-top: 5px;
+    font-size:14px;
+}
+.faqcard_comp_dark h6{
+    height: 25px;
+    font-size: 50px;
+      
+    padding-right:20px;
+    margin-top: 7px;
+    padding-bottom:20px;
+    color: white;
+    transform: rotate(45deg);
+    transition: all 0.6s ease-in-out;
+}.faqcard_comp_dark h6:hover{
+    cursor:pointer;
+   
+ }
+.faqcard_comp_dark{
+    border: 1px solid rgb(36, 36, 36);
+    background-size:contain ;
+    width: 80vh;
+    height:60px;
+    background-color: rgb(36, 36, 36);
+    color: white;
+margin-bottom: 15px;
+border-radius: 6px;
+margin-left: 80px;
+display: flex;
+flex-direction: row;
+justify-content:space-between; 
+}
+.faqcard_comp2_compressor{
+    width: 80vh;
+    margin-left: 80px;
+}
+.faqcard_comp2_compressor p{
+    border: 1px solid rgb(201, 201, 201);
+}

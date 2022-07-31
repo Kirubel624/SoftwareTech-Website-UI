@@ -1,0 +1,92 @@
+.process_tf{
+
+
+text-align: left;
+overflow: hidden;
+/* position: fixed; */
+}
+#process_zero {
+    margin-left: 30px;
+}
+ #p_one{
+   
+  text-align: center;
+    font-weight: 400;
+    margin-left:30px;
+}
+#p_two{
+    margin-left: -40px;
+    font-weight: 400;
+}
+.process_UO1{
+    border: 1px solid white;
+    background-color:white;
+    border-radius: 8px;
+    height: 70px;
+    width: 70px;
+    margin-left:80px;
+    margin-right: 50px;
+}
+.process_UO{
+    border: 1px solid white;
+    background-color:white;
+    border-radius: 8px;
+    height: 70px;
+    width: 70px;
+margin-right: 40px;
+
+
+}
+.arrow_con{
+    width: 20px;
+}
+.process_UO1 img{
+    width: 45px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.process_UO img{
+    width: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.process_UO:hover{
+    background-color:  #532AB8;
+background-image: linear-gradient(to right, transparent 0%, #993BE2 100%);
+
+}
+.process_tf_con{
+    margin-left:200px;
+    background-color:whitesmoke;
+    opacity: 0.9;
+    width: 145vh;
+    display: flex;
+flex-direction: column;
+margin-top: 20px;
+border-radius: 12px;
+overflow: hidden;
+  
+}
+.process_tf_step_aligner{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+
+}
+.arrow_cor{
+   margin-top: 25px;
+
+   color: purple;
+  margin-right: 40px;
+  
+}
+.process_tf_aligner{
+    display: flex;
+    flex-direction: column;
+}
+.process_tf_aligner p{
+font-size: 14px;
+text-align:center;
+line-height: 0.5;
+
+}
